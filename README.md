@@ -1,4 +1,4 @@
 # Mesh_Processing
 
-Lecture
+## Lecture
 - [[Mesh Parameterization](https://www.inf.usi.ch/hormann/parameterization/CourseNotes.pdf)]
