@@ -3,6 +3,7 @@
 ## Papers
 - (Mesh Merge) Zippered polygon meshes from range images.
 - (LOD) LOD generation for urban scenes.
+- (Mesh decimation, meshlab) [Simplifying surfaces with color and texture using quadric error metrics(http://mgarland.org/files/papers/quadric2.pdf)]
 
 ## Lecture
 - [[Mesh Parameterization](https://www.inf.usi.ch/hormann/parameterization/CourseNotes.pdf)]
