@@ -2,6 +2,7 @@
 
 ## Papers
 - (Mesh Merge) Zippered polygon meshes from range images.
+- (Mesh Merge) Mesh Arrangements for Solid Geometry
 - (LOD) LOD generation for urban scenes.
 - (Mesh decimation, meshlab). Simplifying surfaces with color and texture using quadric error metrics
 
