@@ -10,6 +10,7 @@
 ## Lecture
 - [[Mesh Parameterization](https://www.inf.usi.ch/hormann/parameterization/CourseNotes.pdf)]
 - [[Mesh Decimation](https://graphics.stanford.edu/courses/cs468-10-fall/LectureSlides/08_Simplification.pdf)]
+- [[SDF](http://rodolphe-vaillant.fr/entry/86/implicit-surface-aka-signed-distance-field-definition)]
 
 ## Tools
 - [[XATLAS](https://github.com/jpcy/xatlas)]
