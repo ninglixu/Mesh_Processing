@@ -1,6 +1,9 @@
 # Mesh_Processing
 
 ## Papers
+- (Decimation) Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach. arxiv 2021
+- (Decimation) Neural Mesh Simplification. CVPR 2022.
+- (Decimation) A Boundary and Texture Preserving Mesh Simplification Algorithm for Virtual Reality. 2017
 - (Mesh Merge) Zippered polygon meshes from range images.
 - (Mesh Merge, meshlab) Mesh Arrangements for Solid Geometry.
 - (Mesh Merge) Exact, robust, and efficient regularized Booleans on general 3D meshes.
