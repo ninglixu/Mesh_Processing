@@ -2,6 +2,7 @@
 
 ## Papers
 - (Decimation) Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach. arxiv 2021
+- (Deciamtion) Feature-preserving 3D mesh simplification for urban buildings. 2021 ISPRSJ
 - (Decimation) Neural Mesh Simplification. CVPR 2022.
 - (Decimation) A Boundary and Texture Preserving Mesh Simplification Algorithm for Virtual Reality. 2017
 - (Mesh Merge) Zippered polygon meshes from range images.
