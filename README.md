@@ -1,7 +1,6 @@
 # Mesh_Processing
-## Review
-- Mesh Decimation: https://docs.google.com/document/d/1YOTPy6d5-LWh2Dg8FgFbE1WENS2TnJhzOA05veB36Cg/edit?usp=sharing
 ## Papers
+- (Decimation) Neural mesh simplification. CVPR 2022.
 - (Decimation) Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach. arxiv 2021
 - (Deciamtion) Feature-preserving 3D mesh simplification for urban buildings. 2021 ISPRSJ
 - (Decimation) Neural Mesh Simplification. CVPR 2022.
@@ -12,6 +11,7 @@
 - (Mesh Merge) Exact, robust, and efficient regularized Booleans on general 3D meshes.
 - (LOD) LOD generation for urban scenes.
 - (Mesh decimation, meshlab). Simplifying surfaces with color and texture using quadric error metrics
+- (Decimation) A comparison of mesh simplification algorithms. Computers & Graphics 1998.
 
 ## Lecture
 - [[Mesh Parameterization](https://www.inf.usi.ch/hormann/parameterization/CourseNotes.pdf)]
